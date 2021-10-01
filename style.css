@@ -1,0 +1,96 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+    text-align: left;
+    margin-left: 50px;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    width: 300px;
+    height: 300px;
+    text-align: left;
+}
+
+.map-style {
+    width: 600px;
+    height: 400px;
+}
+
+.announcement {
+    background-color: #4DB6AC;
+    color: #FBE9E7;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+}
+
+.youtubevideos {
+    border: 1px solid #B0BEC5;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    width: 95%;
+    height: 500px;
+    text-align: center;
+}
+
+.youtubevideos img {
+    width: 80%;
+    height: 250px;
+    padding-left: 80px;
+}
+
+.youtubevideos hr {
+    width: 95%;
+}
+
+.youtubevideos h5,
+.youtubevideos p {
+    margin-left: 10px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    text-align: left;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.movie_text p {
+    text-align: left;
+}
